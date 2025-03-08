@@ -1,0 +1,57 @@
+Copyright © 2025 Saturn Computing Integrated Graphics. All rights reserved.
+
+WARNING: THE MUSIC YOU MAY HEAR IS NOT OFFICIALLY LICENSED. THIS GAME IS LICENSED UNDER THE YANDEREPYEXE LICENSE. 
+THIS GAME CONTAINS CODE THAT IS PROPRIETARY. MODIFYING IT MAY NOT BE ADVISABLE. DECOMPILING THE GAME IS NOT RECOMMENDED FOR COPYRIGHT REASONS.
+
+**YanderePyExe License:**
+- The game and its components (code, assets, music, etc.) are copyrighted and protected under this proprietary license.
+- Unauthorized use, distribution, modification, or reverse engineering of the game is prohibited.
+- Redistribution of the game or its assets without explicit written permission from the copyright holder is prohibited.
+
+**PC Hardware Used to Create This Game:**
+- Motherboard: MSI A68HM E33 V2
+- CPU: AMD A4 6300
+- PC Case: LG XPION OLD with DVD Drive from 2004
+- Storage: 500 GB HDD
+- RAM: 3 GB
+- Power Supply: 500 W
+- Monitor: DELL PH1911
+- Operating System: Windows 7
+
+**Credits:**
+- **Music:**
+  - "Summertime" by cinnamons × evening cinema
+  - "Cooler Than Me" by Mike Posner (Note: Ensure this music is properly licensed or you have permission to use it)
+  - "8-Bit Adventure" by Adhesive Wombat (Ensure proper attribution or licensing)
+
+- **Programming:**
+  - CalculatorOS_dev.exe
+
+- **Programming Languages Used:**
+  - Python
+  - C++
+
+- **Testing:**
+  - Arya (PC/Mobile Testing)
+  - Earl Millar (PS3 Testing)
+
+**Tools Used:**
+- Blender 2.70 - 3.6 (3D modeling with scripting)
+- cx_Freeze (Used to create the .exe file)
+- Python 3.11 (Programming)
+- VS Code (For C++ and Python)
+
+**Python Libraries Used:**
+- Ursina (Game Engine)
+- os (Used for self-deleting functionality)
+- time (Used for simulating slowness)
+- sys (Used for exiting the game)
+- json (Used for reading save data)
+
+**Game Core Programming:**
+- CalculatorOS_dev.exe
+
+**Special Thanks:**
+- King Viliasis (For suggesting and contributing code from files like Core.py and YANPY_core.py)
+
+**Copyright 2025 Saturn Computing Integrated Graphics. All rights reserved.**

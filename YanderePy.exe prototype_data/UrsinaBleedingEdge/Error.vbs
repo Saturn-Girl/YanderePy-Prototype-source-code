@@ -1,0 +1,1 @@
+MsgBox "You cannot escape YanderePy.exe"

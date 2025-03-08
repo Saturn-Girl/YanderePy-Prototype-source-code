@@ -1,0 +1,44 @@
+{
+  "Characters": [
+    {
+      "Name": "Syntax error",
+      "Nickname": "Character Placeholder",
+      "Age": 18,
+      "Birth Date": "April 30 2006"
+    },
+    {
+      "Name": "Lisa",
+      "Nickname": "Python-Chan",
+      "Age": 18,
+      "Birth Date": "March 30 2006"
+    },
+    {
+      "Name": "Chris",
+      "Nickname": "CalculatorOS_Dev.exe A",
+      "Age": 13,
+      "Birth Date": "October 16 2011"
+    },
+    {
+      "Name": "Chris",
+      "Nickname": "CalculatorOS_Dev.exe B",
+      "Age": 18,
+      "Birth Date": "October 16 2005"
+    }
+  ],
+  "Lisa": {
+    "Clothes": [
+      "School Uniform",
+      "Towel"
+    ],
+    "Weapons": [
+      "Gun",
+      "Sword",
+      "Knife"
+    ]
+  },
+  "Game": {
+    "Name": "YanderePy",
+    "Software type": "Proprietary",
+    "Game Year": "2023"
+  }
+}

@@ -1,0 +1,1 @@
+del YanderePy32.exe

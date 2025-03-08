@@ -1,0 +1,23 @@
+{
+	"Character"{
+		"Name":"Syntax error":"Nickname":"Character Placegolder":"Age":"18":"Birth Date":"April 30 2006"
+		"Name":"Lisa":"Nickname":"Python-Chan":"Age":"18":"Birth Date":"March 30 2006"
+		"Name":"Chris":"Nickname":"CalculatorOS_Dev.exe A":"13":"Birth Date":"october 16 2011"
+		"Name":"Chris":"Nickname":"CalculatorOS_Dev.exe B":"18":"Birth Date":"october 16 2005"
+		
+}
+"Name":"Lisa":"Nickname":"Python-Chan":"Age":"18":"Birth Date":"March 30 2006":{
+	"Clothes":{
+		"School Uniform"
+		"Towel"
+	}
+	"Weapons":{
+		"Gun"
+		"Sword"
+		"Knife"
+	}
+}
+"Game":"YanderePy"{
+	"Software type":"Proprietary"
+	"Game Year":"2023"
+}
